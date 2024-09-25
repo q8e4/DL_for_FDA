@@ -1,0 +1,1 @@
+RAW DATA (48) + NN 
